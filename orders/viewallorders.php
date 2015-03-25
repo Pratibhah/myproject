@@ -3,7 +3,7 @@ session_start();
 include('../includes/config.php');
 include('../includes/header.php');
 include('../includes/leftsidebar.php');
-
+//PHP
 ?>
             <!-- Right side column. Contains the navbar and content of the page -->
             <aside class="right-side">
